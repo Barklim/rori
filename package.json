@@ -1,0 +1,32 @@
+{
+  "name": "rori",
+  "version": "1.0.0",
+  "private": true,
+  "homepage": "https://barklim.github.io/rori/",
+  "description": "Speech Recognition Web App built with IBM Watson api and Indico api",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "eject": "react-scripts eject"
+  },
+  "author": "Barklim",
+  "license": "ISC",
+  "dependencies": {
+    "ajv": "^6.5.4",
+    "gh-pages": "^2.0.1",
+    "react": "^16.5.2",
+    "react-dom": "^16.5.2",
+    "react-scripts": "^2.0.4",
+    "watson-speech": "^0.34.2"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
