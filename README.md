@@ -4,7 +4,7 @@
 
 It's a simple web app that recognizes speech and gives a response with his/her personality. It's built with React.js, Watson's speech recognizing api and Indico's personality analyzing api.
 
-* [Sori](https://Barklim.github.io/rori/) - The speech recognition web app built with React.js. Just give it a try. It's fun to see my personality with my speech.
+* [Rori](https://Barklim.github.io/rori/) - The speech recognition web app built with React.js. Just give it a try. It's fun to see my personality with my speech.
 * [Backend Repository](https://github.com/Barklim/rori_api) - Click the link to see the backend repository.
 
 ## Built With
@@ -20,6 +20,6 @@ It's a simple web app that recognizes speech and gives a response with his/her p
 ## Meta
 
 Barkalov Kliment
-- [Github](https://april9288.github.io/sori/) - This is my Github page
+- [Github](https://Barklim.github.io/rori/) - This is my Github page
 - [Linkedin](https://www.linkedin.com/in//) - This is my Linkedin page
 - kliment.barkalov@gmail.com
